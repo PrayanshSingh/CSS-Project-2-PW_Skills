@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+    background-image: url(https://avatars.mds.yandex.net/i?id=b507a2b8d9382967a186c654f1eeaa74-5262078-images-taas-consumers&n=27&h=480&w=480);
+    background-size: cover;
+    margin-top: 15rem;
+    border-radius: 3rem;
+    height: 300px;
+    width: 300px;
+}
